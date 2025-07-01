@@ -1,5 +1,27 @@
 # Global-Superstore-Sales-Analysis-
 
+## Table of Content 
+
+- Introduction
+
+- Data Overview
+
+- Problem Statement
+
+- Key Metrics
+
+- Skills Demonstrated
+
+- Visualization
+
+- Tools used
+
+- Analysis
+
+- Data source
+
+- Conclusion and Recommendation
+  
 ## Introduction
 
 Global Superstore is a global online retailer store located in the New York City aiming to be a one-stop-shop for its customers. The Global Superstore clients hailing from 147 different countries can browse through an endless offering of more than 10,000 products comprising 3 main categories which are Office supplies, Furniture and Technology.
@@ -12,8 +34,6 @@ This report analyses dataset from Global sales of Global Superstore based locate
 ## Problem Statement
 
 With about 147 countries reached, the demand and supply for products by each country is unknown making it difficult to understand which product to increase or reduce the supply in each country therefore, the need to understand the profit trend to reduce loss and identify most profitable products in each country to enhance profitability and customer satisfaction globally knowing what each country needs and expanding the online store.
-
-## Data source: 
 
 ## Key Metrics
 
@@ -43,14 +63,16 @@ With about 147 countries reached, the demand and supply for products by each cou
 
 - Quick Measure
 
-## Dashboard Automation
+- Dashboard Automation
 
 - Data Gathering:
    The dataset was collected from the orders of Global online Superstore using excel sheet
 
-- Data Cleaning and Data Transformation: This involve generating an informative data, changing of Date datatypes, trimming columns, reordering and adding columns using Power query. The 24 columns was divided into fact and dimension tables, creating Order table, product table and customer information making analysis easier
+- Data Cleaning and Data Transformation:
+ This involve generating an informative data, changing of Date datatypes, trimming columns, reordering and adding columns using Power query. The 24 columns was divided into fact and dimension tables, creating Order table, product table and customer information making analysis easier
 
-- Data modelling: This is a structural representation of data relationships, using one to many relationships, the Date table created using DAX expression in power Bi was created in relation to the order table 
+- Data modelling:
+- This is a structural representation of data relationships, using one to many relationships, the Date table created using DAX expression in power Bi was created in relation to the order table 
 
 ![](IMG_20250630_155936.png)
 
@@ -72,6 +94,9 @@ With about 147 countries reached, the demand and supply for products by each cou
 
 - Power Query
 
+## Data source
+
+https://docs.google.com/spreadsheets/d/1nxESpFzWjlGDMGDVLH69xmDzIl9l6OEq/edit#gid=633280281
 
 ## Analysis (Insight)
 
@@ -145,7 +170,7 @@ The most valuable customers based on critical orders and most profitable are the
 
 ## View my Dashboard or report here(dashboard)
 
-## Recommendation and Conclusion
+## Conclusion and Recommendation 
 
 In alignment with the Online store aim of becoming a one-stop-shop for its customers, I will say the online store has been performing well and the profitability trend in four years has been linear so far but the demand for some products are low in some countries reducing profitability. Therefore, I will recommend;
 
