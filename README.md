@@ -1,5 +1,4 @@
 # Global-Superstore-Sales-Analysis-
-![](https://github.com/Aggietech0221/Global-Superstore-Sales-Analysis-/edit/main/IMG_20250630_155852.png)
 
 ## Introduction
 
@@ -53,6 +52,8 @@ With about 147 countries reached, the demand and supply for products by each cou
 
 - Data modelling: This is a structural representation of data relationships, using one to many relationships, the Date table created using DAX expression in power Bi was created in relation to the order table 
 
+![](IMG_20250630_155936.png)
+
 - Data Visualization: This was done using power point and power bi visuals like bar chart, funnel chart, donut chart, pie chart, table matrix, Gauge, column chart, slicers, and cards to show analysis done in pictorial representation.
 
 - Quick measure and DAX: This was used to carry out insight analysis involving statistical process, DAX expressions are formulars used to create measure, tables and other statistical measures that can not be done using quick measure.
@@ -61,6 +62,7 @@ With about 147 countries reached, the demand and supply for products by each cou
 
 ## Visualization
 
+![](IMG_20250630_155852.png)
 
 ## Tools used 
 
