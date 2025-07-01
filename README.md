@@ -1,5 +1,7 @@
 # Global-Superstore-Sales-Analysis-
 
+![](IMG_20250701_111939.jpg)
+
 ## Table of Content 
 
 - Introduction
